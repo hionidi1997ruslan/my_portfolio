@@ -23,6 +23,7 @@ _Good day._
 
 These is my page where I will store some files for my portfolio.
 
+During my training, I conducted more than 10 checks on test cases, more than 5 checks using the exploratory testing approach, wrote more than 3 checklists and more than 15 bug reports. You can see some of them on this page.
 
 
 <footer>
